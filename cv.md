@@ -8,7 +8,7 @@ CSS, JS. Меня зацепило веб-программирование св�
 
 4. Python, HTML, CSS, JS.
 
-5. Ссылки на написанный мною коды : https://github.com/heresyhawkins/module-3 , https://github.com/heresyhawkins/firstjs . 
+5. Написанный мною код : https://github.com/heresyhawkins/module-3 , https://github.com/heresyhawkins/firstjs . 
 6. Опыта нет, но проходил курс на платформе Coursera (HTML, CSS, and Javascript for Web Developers).
 7. https://www.coursera.org/account/accomplishments/certificate/875MXME8CSRB
 8. B1. Практика была только в университете и школе. Проходил курс на английском языке.
